@@ -11,7 +11,7 @@ You can also follow my [Notes](https://praddy2009.github.io/note/Specialist%20in
 - Responsive Website
 
 ## Setup
-- Ubuntu
+- Ubuntu V20
   - Install apache2 on base system and enable cgi
     ```
     #apt-get -y install python3
