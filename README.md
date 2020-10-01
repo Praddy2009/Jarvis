@@ -24,3 +24,8 @@ You can also follow my [Notes](https://praddy2009.github.io/note/Specialist%20in
     Web files at /var/www/html/
     linux.py at /lib/cgi-bin/
     ``` 
+  - Now save
+    ```
+    Web files at /var/www/html/
+    linux.py at /lib/cgi-bin/
+    ``` 
